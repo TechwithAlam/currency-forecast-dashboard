@@ -8,7 +8,6 @@ An interactive **Streamlit-based web application** that performs:
 
 This project combines **API integration**, **data visualization**, and **machine learning** into one practical financial analytics dashboard.
 
----
 
 ## 🚀 Features
 
