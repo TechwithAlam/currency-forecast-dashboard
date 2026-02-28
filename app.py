@@ -21,7 +21,7 @@ st.markdown("""
 # --------------------------------
 # API Config
 # --------------------------------
-API_KEY = " "
+API_KEY = "YOUR_API_KEY_HERE"
 BASE_URL = "https://api.freecurrencyapi.com/v1/latest"
 
 CURRENCIES = ["USD", "INR", "EUR", "GBP", "AUD", "CAD", "JPY", "AED", "KWD"]
@@ -186,7 +186,7 @@ st.markdown(
     """
     <div style='text-align: center;'>
     Built with ❤️ by <b>Alam</b> <br>
-    AI • Data Science • Financial Analytics
+    AI • Financial Analytics
     </div>
     """,
     unsafe_allow_html=True
